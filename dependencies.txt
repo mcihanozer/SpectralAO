@@ -1,0 +1,3 @@
+http://www.mcihanozer.com/tips/setting-up-libraries/settin-up-libigl-for-vs/
+
+http://www.mcihanozer.com/tips/setting-up-libraries/working-with-embree/
